@@ -22,7 +22,7 @@ A classe TurtleController é uma subclasse de Node do pacote rclpy.node e é res
 
 Para utilizar o código, siga as seguintes etapas:
 
-1 - Certifique-se de ter o ROS instalado e configurado corretamente em seu sistema.
-2 - Execute o código fornecido em um ambiente ROS.
-3 - Será solicitado que você insira as coordenadas de destino para a tartaruga. Digite as coordenadas x e y para cada ponto de destino e pressione Enter para adicionar um novo ponto. Pressione Enter novamente sem digitar nada para finalizar a entrada de pontos.
+1. Certifique-se de ter o ROS instalado e configurado corretamente em seu sistema.
+2. Execute o código fornecido em um ambiente ROS.
+3. Será solicitado que você insira as coordenadas de destino para a tartaruga. Digite as coordenadas x e y para cada ponto de destino e pressione Enter para adicionar um novo ponto. Pressione Enter novamente sem digitar nada para finalizar a entrada de pontos.
 A tartaruga irá se mover pelos pontos de destino na sequência especificada.
