@@ -1,5 +1,7 @@
 # Entrega2Tartaruga
 
+obs: A atividade foi realizada no turtlesim, pois meu computador não me permite executar o gazebo.
+
 # Descrição do Código
 
 O código fornecido é um exemplo de controle de movimento de uma tartaruga no simulador ROS (Robot Operating System). Ele utiliza a biblioteca rclpy para comunicação com o ROS e os pacotes geometry_msgs.msg e turtlesim.msg para lidar com mensagens de controle e poses da tartaruga.
